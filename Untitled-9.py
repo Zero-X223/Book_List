@@ -1,8 +1,8 @@
-#ادخل الكتب موجود
+
 book_list = []
 book_list_futher = []
 
-#اوامر الكتب الموجد
+
 book1 = input("Enter the name of a book you own: ")
 another_book = input("Enter the name of another book you own(or press 'Enter' o skip ): ")
 
